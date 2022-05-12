@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.grid{
+    display: flex;
+
+}
+.grid1{
+    background-color: rgb(184, 184, 214);
+    background-image: linear-gradient(to right,rgb(249, 244, 247),rgb(249, 19, 183));
+    margin: 8% 8%;
+    padding: 2%;
+    border-radius: 2%;
+    border: 5px dotted blueviolet;
+
+    
+}
+.grid1 h1{
+    text-align: center;    
+}
+button{
+    float:right;
+    padding: 2% 4%;
+    background-color: rgb(239, 246, 249);
+    border: none;
+    margin: 5% 1% 0% 0%;
+    border-radius: 5px;
+    color: rgb(249, 19, 183);
+    font-weight: 600;
+   
+}
+.head h1{
+    text-align: center;
+   margin-top: 2%;  
+}
+hr{
+   background-color: black;
+   width: 30%;
+   margin: auto;
+}
